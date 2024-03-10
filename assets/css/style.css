@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+#home{
+    background-image: ;
+    size: ;
+}
+
+.card :hover{
+    transform: scale(1.1);
+}
+
+i{
+    color: white;
+}
+#contact{
+    width: 100%;
+}
+
+#mainMenu{
+    background-color: aqua;
+    
+    border-radius: 10px;
+}
+
+#mainMenu .nav-link:hover{
+    background-color: rgb(243, 243, 250);
+    border-radius: 5px;
+    color: brown;
+
+}
+
+#conbtn{
+    text-align: center;
+}
+
+#home{
+    background-image: url();
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.card :hover{
+    transform: scale(1.1);
+}
+
+i{
+    color: white;
+}
+#contact{
+    width: 100%;
+}
+
+#mainMenu{
+    background-color: rgb(157, 233, 233);
+    margin: 1px 1px;
+}
+
+#mainMenu .nav-link:hover{
+    background-color: rgba(85, 84, 83, 0.836);
+    border-radius: 5px;
+    color: brown;
+
+}
+
+#conbtn{
+    text-align: center;
+}
+
+
+/* form */
+form{
+    width: 50%;
+    margin: 5px auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 10px 60px 0 #9aee85;
+}
+legend{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+input, select{
+    margin-bottom: 8px;
+   
+}
+input[type="number"],
+select, textarea{
+    width: 80%;
+}
+input[type="radio"],
+input[type="checkbox"]{
+    margin-right: 5px;
+}
+
+.btn{
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-right: 8px;
+    margin-top: 8px;
+}
+.g{
+    background-color: rgb(16, 185, 16);
+    color: #fbf9f9;
+}
+.r{
+    background-color: rgb(183, 14, 14);
+    color: #fbf9f9;
+}
+/* form end */
+
+.mainbanar{
+   background-image: url(../img/banner.jpg);
+   height: 100vh;
+   width: 100%;
+   position: 50% 50%;
+   background-size: cover;
+}
+.Done{
+    text-align: center; 
+    color: rgb(110, 8, 245);
+    
+
+  
+   
+}
+
